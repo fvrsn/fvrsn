@@ -34,7 +34,7 @@ Mi enfoque de ingeniería combina tres pilares en cada arquitectura:
 
 ---
 
-## Stack Tecnológico y Herramientas
+## Stack Tecnológico
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,githubactions,gitlab,jenkins,bash,python&perline=10" alt="Stack Tecnológico" />
