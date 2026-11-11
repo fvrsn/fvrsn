@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diegofeversani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofeversani)
 [![Email](https://img.shields.io/badge/Email-diego.feversani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.feversani@gmail.com)
-[![Lab Organization](https://img.shields.io/badge/GitHub_Labs-feversani--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feversani-labs)
+[![Cloud Portfolio](https://img.shields.io/badge/Cloud_Portfolio-feversani--labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feversani-labs)
 
 ---
 
